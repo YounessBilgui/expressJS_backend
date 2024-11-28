@@ -33,10 +33,6 @@ router.post('/register', (req, res) =>{
 
 
 })
-
-export default router
-
-
 router.post('/login', (req, res) => {
 
 
@@ -61,3 +57,5 @@ router.post('/login', (req, res) => {
         res.sendStatus(503)
     }
 })
+
+export default router
