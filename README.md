@@ -1,5 +1,7 @@
 🌟 Introduction
 This project serves as a backend course tutorial and a reference for mastering key backend technologies, including NodeJS, ExpressJS, PostgreSQL, and Prisma ORM, along with containerization using Docker. 🚀
+![image](https://github.com/YounessBilgui/expressJS_backend/blob/main/TODO.png)
+
 
 ✨ Features
 🌐 RESTful API built with ExpressJS
